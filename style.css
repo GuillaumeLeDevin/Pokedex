@@ -84,6 +84,13 @@ ul {
     justify-content: center;
     align-content: center;
     flex-direction: column;
+    border-radius: 25px;
+    cursor: pointer;
+    caret-color: transparent;
+}
+.pokeList li:hover {
+    content: '';
+    color: rgb(99, 84, 35);
 }
 .pokeList h5 {
     font-size: 19px;
