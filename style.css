@@ -90,7 +90,8 @@ ul {
 }
 .pokeList li:hover {
     content: '';
-    color: rgb(99, 84, 35);
+    color: rgb(92, 25, 9);
+    border: 3px solid rgb(92, 25, 9);
 }
 .pokeList h5 {
     font-size: 19px;
